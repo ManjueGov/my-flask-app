@@ -1,4 +1,4 @@
-#Create a Simple Web Application using python and flask
+# Create a Simple Web Application using python and flask
 In this application it will be a simple registration page for an user.
 
 ## 1. Setting Up Flask
